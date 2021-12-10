@@ -7,7 +7,9 @@ program the model to simulate the task for autonomously navigating and completin
 script](https://github.com/kavyadevd/Diner_Robot/blob/main/Python_Validation.html)
 
 The robot moel in custom scene is as follows
-![intermediate_model](https://user-images.githubusercontent.com/13993518/145513645-78af4ffd-bc22-4180-9223-468a4d3a75c0.png)
+![intermediate](https://user-images.githubusercontent.com/13993518/145513812-4a3c9ef3-e8cc-48ab-84c4-1d96de64186e.png)
+
+![final](https://user-images.githubusercontent.com/13993518/145513835-c8abd826-e80f-4018-a123-2bc286bc4fcf.png)
 
 
 The complete demo can be seen [here](https://www.youtube.com/watch?v=pwTl2Ah0ebo&feature=youtu.be)
